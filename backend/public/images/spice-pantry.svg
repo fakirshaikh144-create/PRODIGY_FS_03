@@ -1,0 +1,13 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="40" fill="#F4ECD8"/>
+  <rect x="116" y="124" width="101" height="186" rx="20" fill="#D57B33"/>
+  <rect x="269" y="124" width="101" height="186" rx="20" fill="#B43A2F"/>
+  <rect x="422" y="124" width="101" height="186" rx="20" fill="#E2B63F"/>
+  <rect x="126" y="93" width="81" height="44" rx="18" fill="#6B4429"/>
+  <rect x="279" y="93" width="81" height="44" rx="18" fill="#6B4429"/>
+  <rect x="432" y="93" width="81" height="44" rx="18" fill="#6B4429"/>
+  <rect x="151" y="185" width="32" height="81" rx="12" fill="#F4ECD8" fill-opacity="0.45"/>
+  <rect x="304" y="185" width="32" height="81" rx="12" fill="#F4ECD8" fill-opacity="0.45"/>
+  <rect x="457" y="185" width="32" height="81" rx="12" fill="#F4ECD8" fill-opacity="0.45"/>
+  <text x="114" y="415" fill="#6B4429" font-family="Arial, sans-serif" font-size="38" font-weight="700">Spice Pantry Set</text>
+</svg>

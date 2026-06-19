@@ -1,0 +1,10 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="40" fill="#EEF2E1"/>
+  <rect x="116" y="175" width="144" height="102" rx="26" fill="#8AA05B"/>
+  <rect x="248" y="135" width="144" height="102" rx="26" fill="#A5B977"/>
+  <rect x="380" y="175" width="144" height="102" rx="26" fill="#728A47"/>
+  <path d="M172 155C184 128 212 114 238 122" stroke="#728A47" stroke-width="14" stroke-linecap="round"/>
+  <path d="M298 109C310 82 338 68 364 76" stroke="#728A47" stroke-width="14" stroke-linecap="round"/>
+  <path d="M440 155C452 128 480 114 506 122" stroke="#728A47" stroke-width="14" stroke-linecap="round"/>
+  <text x="147" y="415" fill="#536530" font-family="Arial, sans-serif" font-size="38" font-weight="700">Olive Soap Trio</text>
+</svg>

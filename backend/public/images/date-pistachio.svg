@@ -1,0 +1,12 @@
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="480" rx="40" fill="#F4E6DB"/>
+  <rect x="100" y="126" width="440" height="215" rx="32" fill="#9B5E35"/>
+  <rect x="128" y="152" width="384" height="162" rx="24" fill="#E9C99B"/>
+  <ellipse cx="210" cy="232" rx="48" ry="72" fill="#6F3B1D"/>
+  <ellipse cx="318" cy="232" rx="48" ry="72" fill="#6F3B1D"/>
+  <ellipse cx="426" cy="232" rx="48" ry="72" fill="#6F3B1D"/>
+  <circle cx="210" cy="232" r="18" fill="#8FC276"/>
+  <circle cx="318" cy="232" r="18" fill="#8FC276"/>
+  <circle cx="426" cy="232" r="18" fill="#8FC276"/>
+  <text x="77" y="415" fill="#6F3B1D" font-family="Arial, sans-serif" font-size="38" font-weight="700">Date &amp; Pistachio Box</text>
+</svg>
